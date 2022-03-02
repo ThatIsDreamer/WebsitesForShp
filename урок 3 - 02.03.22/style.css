@@ -8,3 +8,9 @@ p{
 body{
     background-color: #2c3e50;
 }
+header{
+    font-family: Arial;
+    font-size: 45px;
+    color: #2ecc71;
+    font-weight: 50;
+}
